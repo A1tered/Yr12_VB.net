@@ -1,0 +1,11 @@
+D:\School\SowftwareDevelopment3&4\Folio1\Currency\Currency\obj\Debug\Currency.vbprojAssemblyReference.cache
+D:\School\SowftwareDevelopment3&4\Folio1\Currency\Currency\obj\Debug\Currency.frmCurrencyConverter.resources
+D:\School\SowftwareDevelopment3&4\Folio1\Currency\Currency\obj\Debug\Currency.Resources.resources
+D:\School\SowftwareDevelopment3&4\Folio1\Currency\Currency\obj\Debug\Currency.vbproj.GenerateResource.cache
+D:\School\SowftwareDevelopment3&4\Folio1\Currency\Currency\bin\Debug\Currency.exe.config
+D:\School\SowftwareDevelopment3&4\Folio1\Currency\Currency\bin\Debug\Currency.exe
+D:\School\SowftwareDevelopment3&4\Folio1\Currency\Currency\bin\Debug\Currency.pdb
+D:\School\SowftwareDevelopment3&4\Folio1\Currency\Currency\bin\Debug\Currency.xml
+D:\School\SowftwareDevelopment3&4\Folio1\Currency\Currency\obj\Debug\Currency.exe
+D:\School\SowftwareDevelopment3&4\Folio1\Currency\Currency\obj\Debug\Currency.xml
+D:\School\SowftwareDevelopment3&4\Folio1\Currency\Currency\obj\Debug\Currency.pdb

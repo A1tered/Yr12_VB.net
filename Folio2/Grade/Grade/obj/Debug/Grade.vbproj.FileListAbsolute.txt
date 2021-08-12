@@ -1,0 +1,11 @@
+D:\School\SowftwareDevelopment3&4\Folio2\Grade\Grade\bin\Debug\Grade.exe.config
+D:\School\SowftwareDevelopment3&4\Folio2\Grade\Grade\bin\Debug\Grade.exe
+D:\School\SowftwareDevelopment3&4\Folio2\Grade\Grade\bin\Debug\Grade.pdb
+D:\School\SowftwareDevelopment3&4\Folio2\Grade\Grade\bin\Debug\Grade.xml
+D:\School\SowftwareDevelopment3&4\Folio2\Grade\Grade\obj\Debug\Grade.vbprojAssemblyReference.cache
+D:\School\SowftwareDevelopment3&4\Folio2\Grade\Grade\obj\Debug\Grade.frmGrade.resources
+D:\School\SowftwareDevelopment3&4\Folio2\Grade\Grade\obj\Debug\Grade.Resources.resources
+D:\School\SowftwareDevelopment3&4\Folio2\Grade\Grade\obj\Debug\Grade.vbproj.GenerateResource.cache
+D:\School\SowftwareDevelopment3&4\Folio2\Grade\Grade\obj\Debug\Grade.exe
+D:\School\SowftwareDevelopment3&4\Folio2\Grade\Grade\obj\Debug\Grade.xml
+D:\School\SowftwareDevelopment3&4\Folio2\Grade\Grade\obj\Debug\Grade.pdb
