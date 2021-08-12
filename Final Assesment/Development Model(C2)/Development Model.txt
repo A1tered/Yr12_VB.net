@@ -1,0 +1,15 @@
+Observation 3 Criteria 2 - Waterfall Model
+Zach Smith
+
+
+Of the 4 models i have chosen the Waterfall model. This model has a wide range of features that will help in maintaining and managing the progression of my project. The waterfall model is easy to use and understand due to its simplistic rigid design dividing it into four main phases. These four phases are also very similar to the progression used in the VCE Applied Computing: Software Development criteria plan, both follow four main phases - Analysis, Design, Implementation (Development), Testing(Development) and Maintenance(Evaluation).
+
+Other features of this model include it has very little to none expenses, this is good for me as being a student expenses and resources are hard to gather for the project so this model is a good alternative to other models that would take more expenses like the spiral model that is one of the more expensive models.
+
+In this model documentation is well done and thoroughly as this is required due to there being no redos of any section of each phase. This is great to have all documentation done well as unexpected expenses are less likely to appear in the final product.
+
+Testing is also well done and simple due to the progression of the model as it is done in an order and before moving on to the next part of each phase the first must be done forcing the testing of the project to be done properly the first time.
+
+The end of the project is also well defined in the project due to its linear progression not looping back to the start but going straight to the end. This is help full as it reduces and confusion for when the project is done.
+
+

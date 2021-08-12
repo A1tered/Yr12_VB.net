@@ -1,0 +1,22 @@
+11 Part time
+13 Full time
+
+data recorded in staff logs:
+time staff login
+time staff logout
+password
+first name
+last name
+part or full time staff
+
+Functional requirments:
+
+
+Non-functional requirments:
+
+
+Scope:
+
+
+Constraints:
+
