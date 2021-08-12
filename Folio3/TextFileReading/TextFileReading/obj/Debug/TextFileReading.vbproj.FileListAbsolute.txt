@@ -1,0 +1,11 @@
+D:\School\SowftwareDevelopment3&4\Folio3\TextFileReading\TextFileReading\bin\Debug\TextFileReading.exe.config
+D:\School\SowftwareDevelopment3&4\Folio3\TextFileReading\TextFileReading\bin\Debug\TextFileReading.exe
+D:\School\SowftwareDevelopment3&4\Folio3\TextFileReading\TextFileReading\bin\Debug\TextFileReading.pdb
+D:\School\SowftwareDevelopment3&4\Folio3\TextFileReading\TextFileReading\bin\Debug\TextFileReading.xml
+D:\School\SowftwareDevelopment3&4\Folio3\TextFileReading\TextFileReading\obj\Debug\TextFileReading.vbprojAssemblyReference.cache
+D:\School\SowftwareDevelopment3&4\Folio3\TextFileReading\TextFileReading\obj\Debug\TextFileReading.frmTextFileReader.resources
+D:\School\SowftwareDevelopment3&4\Folio3\TextFileReading\TextFileReading\obj\Debug\TextFileReading.Resources.resources
+D:\School\SowftwareDevelopment3&4\Folio3\TextFileReading\TextFileReading\obj\Debug\TextFileReading.vbproj.GenerateResource.cache
+D:\School\SowftwareDevelopment3&4\Folio3\TextFileReading\TextFileReading\obj\Debug\TextFileReading.exe
+D:\School\SowftwareDevelopment3&4\Folio3\TextFileReading\TextFileReading\obj\Debug\TextFileReading.xml
+D:\School\SowftwareDevelopment3&4\Folio3\TextFileReading\TextFileReading\obj\Debug\TextFileReading.pdb

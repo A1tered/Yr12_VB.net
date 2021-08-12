@@ -1,0 +1,11 @@
+C:\School\2020\SowftwareDevelopment3&4\Folio4\ArrayEncryptionSearch\ArrayEncryptionSearch\obj\Debug\ArrayEncryptionSearch.vbprojAssemblyReference.cache
+C:\School\2020\SowftwareDevelopment3&4\Folio4\ArrayEncryptionSearch\ArrayEncryptionSearch\obj\Debug\ArrayEncryptionSearch.frmShinyCarDealership.resources
+C:\School\2020\SowftwareDevelopment3&4\Folio4\ArrayEncryptionSearch\ArrayEncryptionSearch\obj\Debug\ArrayEncryptionSearch.Resources.resources
+C:\School\2020\SowftwareDevelopment3&4\Folio4\ArrayEncryptionSearch\ArrayEncryptionSearch\obj\Debug\ArrayEncryptionSearch.vbproj.GenerateResource.cache
+C:\School\2020\SowftwareDevelopment3&4\Folio4\ArrayEncryptionSearch\ArrayEncryptionSearch\bin\Debug\ArrayEncryptionSearch.exe.config
+C:\School\2020\SowftwareDevelopment3&4\Folio4\ArrayEncryptionSearch\ArrayEncryptionSearch\bin\Debug\ArrayEncryptionSearch.exe
+C:\School\2020\SowftwareDevelopment3&4\Folio4\ArrayEncryptionSearch\ArrayEncryptionSearch\bin\Debug\ArrayEncryptionSearch.pdb
+C:\School\2020\SowftwareDevelopment3&4\Folio4\ArrayEncryptionSearch\ArrayEncryptionSearch\bin\Debug\ArrayEncryptionSearch.xml
+C:\School\2020\SowftwareDevelopment3&4\Folio4\ArrayEncryptionSearch\ArrayEncryptionSearch\obj\Debug\ArrayEncryptionSearch.exe
+C:\School\2020\SowftwareDevelopment3&4\Folio4\ArrayEncryptionSearch\ArrayEncryptionSearch\obj\Debug\ArrayEncryptionSearch.xml
+C:\School\2020\SowftwareDevelopment3&4\Folio4\ArrayEncryptionSearch\ArrayEncryptionSearch\obj\Debug\ArrayEncryptionSearch.pdb
